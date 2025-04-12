@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const timeSlots = document.querySelectorAll('.time-options .time-slot, .time-options .time-slot3');
+  const timeSlots = document.querySelectorAll('.time-options .time-slot, .time-options');
   const continueBtn = document.querySelector('.continue-btn');
   let selectedTime = null; 
 
